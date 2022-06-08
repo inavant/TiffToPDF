@@ -1,0 +1,14 @@
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\ConvertTifToPDF.exe.config
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\ConvertTifToPDF.exe
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\ConvertTifToPDF.pdb
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\PdfSharp-gdi.dll
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\PdfSharp.Charting-gdi.dll
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\PdfSharp-gdi.xml
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\PdfSharp.Charting-gdi.xml
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\de\PdfSharp-gdi.resources.dll
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\de\PdfSharp.Charting-gdi.resources.dll
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\obj\Debug\ConvertTifToPDF.csproj.CoreCompileInputs.cache
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\obj\Debug\ConvertTifToPDF.csproj.CopyComplete
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\obj\Debug\ConvertTifToPDF.exe
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\obj\Debug\ConvertTifToPDF.pdb
+C:\docsjuan\reposdecodigo\personal\github\ConvertTifToPDF\ConvertTifToPDF\ConvertTifToPDF\bin\Debug\SampleFile\ExampleTIFF.tiff
